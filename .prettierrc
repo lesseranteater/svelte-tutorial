@@ -1,0 +1,9 @@
+{
+  "svelteSortOrder": "options-styles-scripts-markup",
+  "svelteStrictMode": true,
+  "svelteBracketNewLine": false,
+  "svelteAllowShorthand": false,
+  "svelteIndentScriptAndStyle": true,
+  "sveltePrintWidth": 120,
+  "printWidth": 120
+}
