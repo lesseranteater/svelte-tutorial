@@ -1,6 +1,3 @@
-<style>
-</style>
-
 <script>
 </script>
 
@@ -10,3 +7,6 @@
     repellendus iusto velit mollitia eligendi, dignissimos omnis non? Eius sit ea nihil debitis molestias dolore.
   </p>
 </main>
+
+<style>
+</style>
